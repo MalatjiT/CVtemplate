@@ -14,7 +14,6 @@
                 <li><a href="#">About</a></li>
                 <li><a href="#">Gallery</a></li>
                 <li><a href="#">Blogs</a></li>
-                <li><a href="#">Terms and Privacy</a></li>
             </ul>
             <img src="images/laura-chouette-cZjKwZK_Y1E-unsplash.jpg" alt="Laura Chouette">
             <br/>
